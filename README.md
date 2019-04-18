@@ -1,5 +1,5 @@
-# Onsen lists
+# Onsen lifecycle
 
-To demonstrate Onsen lists
+To demonstrate Onsen lifecycle
 
 
